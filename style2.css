@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    border-radius: 4px;
+}
+body{
+    background-image: url(img/background2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    color: white;
+    margin-top: 5px;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+
+p{
+    color: rgba(255, 255, 255, 0.595);
+    font-family: 'Special Elite', cursive;
+}
+
+.title{
+    text-align: center;
+    color: black;
+    font-family: 'Mali', cursive;
+}
+
+.part2{
+    margin-top: 20px;
+   color: whitesmoke;
+   font-family: 'Special Elite', cursive;
+   text-align: center;
+}
