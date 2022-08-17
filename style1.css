@@ -27,7 +27,7 @@ h2{
 
 h3{
     color: black;
-    font-size: 40px;
+    font-size: 7.5vh;
     margin: 3px;
 }
 
@@ -42,7 +42,7 @@ img{
 }
 
 .name{
-    width: 90%;
+    width: 85%;
     float: right;
     font-family: 'Mali', cursive;
 }
